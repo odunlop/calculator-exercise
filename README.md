@@ -4,7 +4,7 @@
 ### Background
 The purpose of this repository is to complete one of my exercises for Week 4 of my training focussed on OOP.
 
-In this example I was given the below `Calculator` class and asked to "Refactor the methods in the Calculator example into two classes as you see fit."xs
+In this example I was given the below `Calculator` class and asked to "Refactor the methods in the Calculator example into two classes as you see fit."
 
 ```
 class Calculator
